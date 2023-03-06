@@ -6,5 +6,12 @@
   <hr />
 <br />
 <img>
-<p>More info available in soon</p>
+<code>
+  Usage: [Arg]...
+  
+  Arguments:
+    -c, --create DOMAIN NAME DISK        Create snapshot
+    -r, --restore DOMAIN NAME DISK      Restore to created snapshot
+    -d, --delete DOMAIN NAME DISK        Delete snapshot
+</code>
 </div>
