@@ -6,12 +6,14 @@
   <hr />
 <br />
 <img>
-<code>
-  Usage: [Arg]...
-  
-  Arguments:
-    -c, --create DOMAIN NAME DISK        Create snapshot
-    -r, --restore DOMAIN NAME DISK      Restore to created snapshot
-    -d, --delete DOMAIN NAME DISK        Delete snapshot
-</code>
+<pre>
+  <code>
+    Usage: [Arg]...
+    
+    Arguments:
+      -c, --create DOMAIN NAME DISK        Create snapshot
+      -r, --restore DOMAIN NAME DISK      Restore to created snapshot
+      -d, --delete DOMAIN NAME DISK        Delete snapshot
+  </code>
+</pre>
 </div>
